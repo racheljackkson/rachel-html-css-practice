@@ -18,23 +18,26 @@ article {
 
 h1, h2, h3, h4 {
   font-family: 'Ubuntu', 'Arial Narrow', Arial, sans-serif;
-  margin-bottom: 10px;
 }
 
 h1 {
   font-size: 2.75rem;
+  margin-bottom: 30px;
 }
 
 h2 {
   font-size: 2rem;
+  margin-bottom: 20px;
 }
 
 h3 {
   font-size: 1.5rem;
+  margin-bottom: 15px;
 }
 
 h4 {
   font-size: 1rem;
+  margin: 25px auto;
 }
 
 .byline, .credit {
@@ -50,6 +53,7 @@ h4 {
 blockquote {
   border-left: grey solid 4px; 
   padding: 20px;
+  margin: 10px auto;
 }
 
 ol {
